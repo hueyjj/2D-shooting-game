@@ -1,5 +1,5 @@
 # Defend of the Coke race
-Defend of the Coke race is a 2D shooting game that mainly uses the java standard library. 
+Defend of the Coke race is a 2D shooting game that uses the java standard library. 
 
 # Requirements
 Java
@@ -13,7 +13,7 @@ If ran make, then run "java TestRun".
 Defend of the Coke race is functional but does not provide many capabilities a user might expect. The program is as is and will most likely not be improved in the near future. The repository's large size is due to the audio file and asset files. 
 
 ## Credits
-Music.wav from here: www.youtube.com/watch?v=B9H7FlgyqOs
+Audio: www.youtube.com/watch?v=B9H7FlgyqOs
 
-![Alt text](/DefendofTheCokeRace.JPG?raw=true "Defend of the Coke race")
-![Alt text](/Ingame.JPG?raw=true "Ingame")
+![Alt text](/DefendofTheCokeRace.jpg?raw=true "Defend of the Coke race")
+![Alt text](/Ingame.jpg?raw=true "Ingame")
